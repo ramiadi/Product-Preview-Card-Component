@@ -78,8 +78,6 @@ body {
   font-weight: 700;
   font-size: 1.2rem;
   cursor: pointer;
-  display: block;
-  margin-inline: auto;
 }
 
 .product-box__button--primary:hover {

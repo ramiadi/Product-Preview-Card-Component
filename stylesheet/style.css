@@ -39,12 +39,14 @@ body {
     display: flex;
     flex-direction: row;
     width: 80vw;
-    max-height: 80vh;
+    max-width: 40rem;
+    height: 80vh;
+
     border-radius: 10px;
   }
   .product-box__image {
     width: 50%;
-    max-height: 80vh;
+    max-height: 40rem;
     height: 80vh;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
